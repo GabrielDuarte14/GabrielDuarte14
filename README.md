@@ -4,6 +4,7 @@
 - 🎂 18 anos <br>
 - 🇧🇷 São Paulo - SP, Brasil <br>
 - 💻 Mobile <3 <br>
+- 🥈 2º Lugar da 8ª Maratona de Programação Centro Paula Souza
 
 ### Gostou dos projetos? Me encontre:
 
@@ -11,7 +12,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielduarte5/) <br>
 
-👨‍💻 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/337005) <br>
+👨‍💻 [URI Online Judge/Beecrowd](https://www.urionlinejudge.com.br/judge/pt/profile/337005) <br>
 
 
 
