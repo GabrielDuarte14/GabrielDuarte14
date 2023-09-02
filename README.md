@@ -1,7 +1,7 @@
  ### Olá, meu nome é Gabriel Duarte! 👋
 - 🎓 Técnico em Desenvolvimento de Sistemas <br>
 - 📚 Estudante de Ciências da Computação <br>
-- 🎂 19 anos <br>
+- 🎂 20 anos <br>
 - 🇧🇷 São Paulo - SP, Brasil <br>
 - 🥈 2º Lugar da 8ª Maratona de Programação Centro Paula Souza
 
