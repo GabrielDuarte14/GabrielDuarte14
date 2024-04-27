@@ -9,7 +9,7 @@
 
 📱 [WhatsApp](https://wa.me/5511981224856) <br>
 
-💼 [LinkedIn](https://www.linkedin.com/in/gabrielduarte5/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielduarte14/) <br>
 
 👨‍💻 [URI Online Judge/Beecrowd](https://www.urionlinejudge.com.br/judge/pt/profile/337005) <br>
 
